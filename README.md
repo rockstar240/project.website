@@ -29,5 +29,5 @@ Create a website on a topic that interest you, using the technologies listed bel
 - [Javascript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
-## An example:
+## Example:
 ![alt text](http://68.media.tumblr.com/8838cd7ec8acc34fdf06041f0d8b5b5a/tumblr_o1kd7f6R3q1trhwe5o1_500.gif)
