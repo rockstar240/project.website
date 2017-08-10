@@ -1,11 +1,23 @@
-WingChun
-.container {
+
+.image1 {
+
+
   border: 1px solid black;
-  display: grid;
-  grid-template-columns: repeat(4, 25%);
-  grid-template-rows: repeat(4, 25%);
+  /*display: grid;
+  grid-template-columns: repeat(1, 100%;
+  grid-template-rows: repeat(2, 50%);*/
+  background-image: url('http://youqueen.com/wp-content/uploads/2013/02/Wing-Chun-Kung-Fu.jpg');
+  background-repeat: no-repeat;
   height: 500px;
-  width: 500px;
-  /*the line below centers the container*/
-  margin: 0 auto;
+  width: 890px;
+    margin: 0 auto;
+}
+h1{
+  font-family: 'Permanent Marker', cursive;
+}
+h2{
+  font-family: 'Bitter', serif;
+}
+.image2 {
+  background-image: url('http://www.kwokwingchun.com/img/assets/ip-man-bruce-lee-chi-sau.jpg');
 }
