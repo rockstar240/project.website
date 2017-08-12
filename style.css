@@ -1,16 +1,40 @@
+body {
+  background-color: red;
+}
+.flex-container2{
+  display: -webkit-flex;
+  display: flex;
+  width: 2500px;
+  height: 600px;
+  background-color: red;
+}
+.flex-box2 {
+    width: 500px;
+    height: 500px;
+    margin: 50px;
+    padding: 30px;
 
-.image1 {
+}
+.flex-box3 {
+    width: 300px;
+    height: 800px;
+    margin: 50px;
+}
+.image1{
 
 
   border: 1px solid black;
+
   /*display: grid;
   grid-template-columns: repeat(1, 100%;
   grid-template-rows: repeat(2, 50%);*/
   background-image: url('http://youqueen.com/wp-content/uploads/2013/02/Wing-Chun-Kung-Fu.jpg');
   background-repeat: no-repeat;
-  height: 500px;
-  width: 890px;
+  height: 400px;
+  width: 800px;
     margin: 0 auto;
+
+
 }
 h1{
   font-family: 'Permanent Marker', cursive;
@@ -18,7 +42,30 @@ h1{
 }
 h2{
   font-family: 'Bitter', serif;
+
 }
 .image2 {
-  background-image: url('http://www.kwokwingchun.com/img/assets/ip-man-bruce-lee-chi-sau.jpg');
+background-image: url('http://www.kwokwingchun.com/img/assets/ip-man-bruce-lee-chi-sau.jpg');
+background-repeat: no-repeat;
+height: 600px;
+width: 400px;
+}
+.image3{
+background-image: url('http://3.bp.blogspot.com/-DPBo5Ln2Xqk/Un-_5eeBoUI/AAAAAAAAAYE/n_y-7MYQG84/s640/dvds-de-kung-fu-wing-chun-bruce-lee-jeet-kune-do-2670-MLM24765776_902-O.jpg');
+background-repeat: no-repeat;
+height: 500px;
+width: 500px;
+}
+.flex-container {
+    display: -webkit-flex;
+    display: flex;
+    width: 1200px;
+    height: 600px;
+    background-color: red;
+}
+
+.flex-box {
+    width: 500px;
+    height: 500px;
+    margin: 10px;
 }
